@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/card-component-using-flexbox-WVqKmJP88)
-- Live Site URL: [Add live site URL here](https://milesm86.github.io/order_summary_fm/)
+- Solution URL: https://www.frontendmentor.io/solutions/card-component-using-flexbox-WVqKmJP88
+- Live Site URL: https://milesm86.github.io/order_summary_fm/
 
 ## My process
 
